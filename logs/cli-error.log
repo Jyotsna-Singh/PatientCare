@@ -1,0 +1,12 @@
+2017-02-01 02:16:26 Error: [Cake\Console\Exception\MissingShellException] Shell class for "Bakealldoctors" could not be found.
+Exception Attributes: array (
+  'class' => 'Bakealldoctors',
+)
+Stack Trace:
+#0 C:\xampp2\htdocs\PatientCare\vendor\cakephp\cakephp\src\Console\ShellDispatcher.php(223): Cake\Console\ShellDispatcher->findShell('bakealldoctors')
+#1 C:\xampp2\htdocs\PatientCare\vendor\cakephp\cakephp\src\Console\ShellDispatcher.php(182): Cake\Console\ShellDispatcher->_dispatch(Array)
+#2 C:\xampp2\htdocs\PatientCare\vendor\cakephp\cakephp\src\Console\ShellDispatcher.php(128): Cake\Console\ShellDispatcher->dispatch(Array)
+#3 C:\xampp2\htdocs\PatientCare\bin\cake.php(34): Cake\Console\ShellDispatcher::run(Array)
+#4 {main}
+
+
