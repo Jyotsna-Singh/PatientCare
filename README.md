@@ -1,4 +1,9 @@
-# PatientCare
+<p align="center">
+  <br><br>
+  <img src="https://github.com/Jyotsna-Singh/PatientCare/blob/master/webroot/img/logo.PNG">
+</p>
+
+[![License](https://img.shields.io/packagist/l/cakephp/app.svg?style=flat-square)](http://jyotsnasingh.com/projects/CakePHP/PatientCare/)
 
 **PatientCare** is a Patient Manager admin tool for clinics and hospitals. It is built using the CakePHP 3 framework. Admin can create,view,edit,delete the following: Patients, Doctors, Appointments, Carriers, Invoices. Admin can also view and manage other users.
 
@@ -10,8 +15,8 @@
 ## Version
 1.0.0
 
-## Live Demo
- [PatientCare](http://jyotsnasingh.com/projects/CakePHP/PatientCare/)
+## Live Demo - PatientCare
+ [![alt tag](https://github.com/Jyotsna-Singh/SearchVidz-YoutubeAPI/blob/master/img/red-button.PNG)](http://jyotsnasingh.com/projects/CakePHP/PatientCare/)
 
 
 ## Usage
